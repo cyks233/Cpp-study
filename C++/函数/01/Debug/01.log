@@ -1,0 +1,7 @@
+﻿  源1.cpp
+F:\C++\函数\01\源1.cpp(14,5): warning C4065: switch 语句包含“default”但是未包含“case”标签
+F:\C++\函数\01\源1.cpp(9,10): warning C4102: “case1”: 未引用的标签
+F:\C++\函数\01\源1.cpp(10,10): warning C4102: “case2”: 未引用的标签
+F:\C++\函数\01\源1.cpp(11,10): warning C4102: “case3”: 未引用的标签
+F:\C++\函数\01\源1.cpp(12,10): warning C4102: “case4”: 未引用的标签
+  01.vcxproj -> F:\C++\函数\01\Debug\01.exe
