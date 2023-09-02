@@ -1,0 +1,2 @@
+F:\C++\对象特性\对象初始化和清理\Project1\Debug\Project1.exe
+F:\C++\对象特性\构造函数和析构函数\Project1\Debug\Project1.exe
