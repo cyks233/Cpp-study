@@ -1,0 +1,3 @@
+﻿D:\Visual Studio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(全局函数作友元.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源2.cpp
+  全局函数作友元.vcxproj -> D:\C++\C++\类\友元\全局函数作友元\x64\Debug\友元.exe

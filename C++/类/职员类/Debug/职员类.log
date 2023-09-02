@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\C++\类\职员类\源.cpp(64,39): error C2664: “clerk::clerk(const char,const char,const char,const char)”: 无法将参数 1 从“const char [2]”转换为“const char”
+F:\C++\类\职员类\源.cpp(64,11): message : 没有使该转换得以执行的上下文
+F:\C++\类\职员类\源.cpp(31,8): message : 参见“clerk::clerk”的声明
